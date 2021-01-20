@@ -16,7 +16,7 @@ For our purposes we'll define words and numbers as follows:
 
 - A **word** is any contiguous sequence of lower-case or upper-case alphabetic characters.
 
-- A **word** can also be any sequence of ASCII characters beginning with `[`, and ending at the next `]`. The word itself does not include the surrounding `[` and `]` characters. You can assume that such a sequence will never span a line-break.
+- A **word** can also be any sequence of 8-bit characters beginning with `[`, and ending at the next `]`. The word itself does not include the surrounding `[` and `]` characters. You can assume that such a sequence will never span a line-break.
 
 - A **number** can be expressed as a decimal or as a fraction.
 
