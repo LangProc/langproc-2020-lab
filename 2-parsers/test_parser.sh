@@ -79,7 +79,7 @@ echo ""
 
 while IFS=, read -r INPUT_LINE; do
     # Strip carriage return if necessary (replace dos2unix)
-    INPUT_LINE=$(echo ${INPUT_LINE})
+    INPUT_LINE=$(echo "${INPUT_LINE}")
     echo "==========================="
     echo ""
     echo "Input : ${INPUT_LINE}"
