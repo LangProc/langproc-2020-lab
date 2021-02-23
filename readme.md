@@ -7,9 +7,9 @@ The three exercises are:
 
 1 - [Lexers and regular expressions](1-regexes) (due Tue 9 Feb at 23:59).
 
-2 - [Parsers and ASTs](2-parsers) (due Tue 23 Feb at 23:59).
+2 - [Parsers and ASTs](2-parsers) (due ~~Tue 23 Feb at 23:59~~ Thu 25 Feb at 23:59).
 
-3 - [Code Generation](3-codegen) (due Tue 9 Mar at 23:59).
+3 - [Code Generation](3-codegen) (due ~~Tue 9 Mar at 23:59~~ Thu 11 Mar at 23:59).
 
 (NB: the deadlines were extended by one week on 20-Jan-2021 to account for the mismatch between the lecture timetable and the lab timetable.)
 
